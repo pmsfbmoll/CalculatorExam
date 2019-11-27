@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CalculatorExam</string>
+    <string name="zero">0</string>
+    <string name="add">ADD</string>
+    <string name="mul">MUL</string>
+    <string name="div">DIV</string>
+    <string name="sub">SUB</string>
+    <string name="nan">NaN</string>
+    <string name="even">Even</string>
+    <string name="odd">Odd</string>
+    <string name="mc">MC</string>
+    <string name="mr">MR</string>
+    <string name="m1">M-</string>
+    <string name="m2">M+</string>
+</resources>
